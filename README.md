@@ -13,7 +13,7 @@ This is an app that uses the rick and morty API (https://rickandmortyapi.com/) w
 
 ### Video Preview of Final UI
 
-![Preview](/rick&morty_app.mp4)
+![Preview](/rick_morty_app.mp4)
 
 ## Screens it contains:
 
