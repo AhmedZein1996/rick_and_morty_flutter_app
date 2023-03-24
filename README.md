@@ -11,11 +11,11 @@ This is an app that uses the rick and morty API (https://rickandmortyapi.com/) w
 - graphql_flutter:
 
 
-### Video Preview of Rick And Morty App
+### Video Preview of Rick And Morty App :
 
 ![Preview](/rick_morty_app.mp4)
 
-## Screens it contains:
+## Screens it contains :
 
 => Home Screen
 
